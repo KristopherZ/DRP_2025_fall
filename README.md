@@ -1,5 +1,11 @@
 # Directed Reading Program Proposed Projects
 
+The Math Union at the University of Toronto is pleased to invite undergraduate students to participate in the mini directed reading program. You will be put in a group of 3-5 with an upper year student who will guide you to read some math literature of their choice. If you are interested, please use this [form](https://forms.gle/JaSKHg46Qq1pMi8r9) to sign up and rank your top 3 projects that you'd like to participate in. The program will start mid October and last until the end of this semester. There will be a final presentation that you are encouraged to take part and share what you learned with your peers.
+
+Expected Commitment: You are expected to meet your mentor either in person or online for one hour a week for about 6 weeks, and read the literature assigned.  The final presentation is optional and the exact date will be announced closer to the end of the semester. 
+
+The forms closes at Oct 5, Sunday, 23:59.
+
 # Table of Contents
 
 - [Project 1](#project-1)
@@ -60,7 +66,7 @@ First or second year math spec.
 
 A few notions from topology: open and closed sets, compactness, connectedness, continuity, metric spaces.
 
-Topology of $\mathbb{R}^n$: Heine-Borel, completeness, Bolzano-Weinerstrass, topological formulations of IVT and EVT.
+Topology of R^n: Heine-Borel, completeness, Bolzano-Weinerstrass, topological formulations of IVT and EVT.
 
 #### Expected Prerequisites:
 
@@ -84,7 +90,7 @@ Participants of this group will become acquainted with vector bundles with struc
 
 #### Expected Prerequisites:
 
-Good understanding of linear algebra (real and complex vector spaces, matrices, eigenvalues, trace, characteristic polynomial; inner products, groups $GL(n)$, $O(n)$, $U(n)$); basic group theory (groups, subgroups, cosets, group actions); basic point-set topology (familiarity with topological spaces and continuous maps); basic smooth manifold theory (smooth manifolds, smooth functions, vector fields, differential forms and the exterior differential).
+Good understanding of linear algebra (real and complex vector spaces, matrices, eigenvalues, trace, characteristic polynomial; inner products, groups GL(n), O(n), U(n)); basic group theory (groups, subgroups, cosets, group actions); basic point-set topology (familiarity with topological spaces and continuous maps); basic smooth manifold theory (smooth manifolds, smooth functions, vector fields, differential forms and the exterior differential).
 
 #### Intended Students:
 
@@ -148,14 +154,14 @@ People with basic knowledge of algebra and geometry.
 
 ## Project 8
 
-#### Topic: $p$-adic Groups and Their Representations
+#### Topic: p-adic Groups and Their Representations
 
 #### Mentor: Zander Karaganis
 
 #### Material Will be Covered:
 
 An introduction to p-adic numbers, group theory, and ring theory.
-From here, either I will propose participants classify quadratic forms over $\mathbb{Q}_p$ (including p=2), or anisotropic tori for $SL(2)$ or $SO(4)/SO(5)$, all the tori coming from quadratic forms.
+From here, either I will propose participants classify quadratic forms over Q_p (including p=2), or anisotropic tori for SL(2) or SO(4)/SO(5), all the tori coming from quadratic forms.
 Time permitting, we will use these tori to construct a bulk of the irreducible representations of these groups, under mild restrictions on the prime $p$.
 This is connected to a recent problem of describing representations through a representation theoretic version of the local character expansion.
 
@@ -179,7 +185,7 @@ Geodesics, Isometries of the plane, Poincare disc model, triangles.
 
 #### Expected Prerequisites:
 
-Know what $\mathbb{C}$ is. Integration on manifolds useful but not at all required.
+Know what C is. Integration on manifolds useful but not at all required.
 
 #### Intended Students:
 
